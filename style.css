@@ -166,7 +166,7 @@ section {
   display: flex;
   justify-content: center;
   gap: 5rem;
-  height: 80vh;
+  height: 100%;
 }
 
 .section__pic-container {
@@ -194,6 +194,10 @@ section {
   margin-bottom: 1rem;
 }
 
+.section__text__p3 {
+  font-size: 1.1rem;
+  margin-bottom: 3rem;
+}
 .title {
   font-size: 3rem;
   text-align: center;
@@ -219,6 +223,7 @@ section {
   display: flex;
   justify-content: center;
   gap: 1rem;
+  margin-top: 1rem;
 }
 
 .btn {
@@ -289,8 +294,13 @@ section {
 .about-containers,
 .about-details-container {
   display: flex;
+  flex-direction: column;
 }
 
+.about-containers-2 {
+  display: flex;
+  gap: 1rem;
+}
 .about-pic {
   border-radius: 2rem;
 }
@@ -335,6 +345,10 @@ section {
   margin-bottom: 2rem;
 }
 
+.experience-details-container-2 {
+  display: flex;
+  justify-content: center;
+}
 .experience-details-container {
   display: flex;
   justify-content: center;
