@@ -321,26 +321,26 @@
           <div class="details-container color-container">
             <div class="article-container">
               <img
-                src="./assets/83943c52-8f5a-4fc3-9121-7711056495c2.jpeg"
-                alt="Project 4"
+                src="./assets/text-editor.png"
+                alt="Project 3"
                 class="project-img"
               />
             </div>
-            <h2 class="experience-sub-title project-title">File System</h2>
+            <h2 class="experience-sub-title project-title">Text Editor</h2>
             <div>
               <p>
-                This project implements a in-memory file system in C, supporting
-                hierarchical directory structures and file management. It
-                features operations such as creating, navigating, and listing
-                directories and files. The simulation demonstrates the
-                fundamentals of file systems, with a focus on efficient data
-                organization and access.
+                High-performance text editor inspired by Vim, crafted
+                meticulously in C++. Designed for speed and efficiency, it
+                operates seamlessly across multiple modes including Normal,
+                Input, and Command. Through continuous enhancements, it embodies
+                my dedication to creating robust, user-centric software
+                solutions.
               </p>
             </div>
             <div class="btn-container">
               <button
                 class="btn btn-color-2 project-btn"
-                onclick="window.open('https://github.com/nikolaospanagopoulos/customFileSystem',
+                onclick="window.open('https://github.com/nikolaospanagopoulos/textEditor',
           '_blank')"
               >
                 Github
@@ -348,10 +348,6 @@
             </div>
           </div>
         </div>
-      </div>
-
-      <div class="experience-details-container-2">
-        <div class="about-containers-2"></div>
       </div>
       <img
         src="./assets/arrow.png"
